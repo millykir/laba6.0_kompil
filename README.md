@@ -1,0 +1,1 @@
+# laba6.0_kompil
